@@ -1,0 +1,108 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CISrwucseWM6aBcWQvgSskr74C9vlvvlGuIGmoZoBwI23ARABII-wpBAoBGDh2G-gAdzY7foDyAEBqAMBqgS3AU_QDe4WlkRP75DmRE5duwfd4xE0_KMdcVS2LppnMZvsLHjauIXmrgqv-_xLFB1fgy2z9QXUfD6pgfaMRmja4ydw3xP4ufrvZQR4CEkPv8idUGZg7F7iUsStFfoAJjRxc95KieQpGBPQ_SIBMyFa4YHSuTjOoSouMBMjP49HkQ6hx3cSi4o11LBL7NkiGXms0xc5CLUOfROwMxE7a-VNLK_WxDAvgrbj4UPgrElUoGVtt3sneBHqoYgGAYAHjKeSBagHpr4b2AcB0ggFCIABEAE&amp;num=1&amp;cid=CAASEuRozWgDyeU1WlPmxShj1UExhQ&amp;sig=AOD64_1n_ZZ91vf7ncf7QQoiiV_lgIcunA&amp;client=ca-livestrong_html&amp;adurl=https://ad.doubleclick.net/ddm/trackclk/N9449.2025902GOOGLEGDN/B10558191.140852968%3Bdc_trk_aid%3D313097672%3Bdc_trk_cid%3D75990724%3Bu%3Dnetwork:d,campaignid:37210606,adgroupid:1836390016,creative:41456919976,keyword:spanish%2520wife,placement:www.livestrong.com,device:c%3Bkw%3Dnetwork:d,campaignid:37210606,adgroupid:1836390016,creative:41456919976,keyword:spanish%2520wife,placement:www.livestrong.com,device:c%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Fhttp://www.amolatina.com/%3Fafid%3D401"; 
+google_ad.visible_url = "amolatina.com"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "BsaUFucseWM6aBcWQvgSskr74CwC4gaahmgEAABABOAHIAQHSCAUIgAEQAcITSgofEICt1OsGGO6T3xEiCAgDEAEYASAAIggIAhABGAEgAAoPGMHa4VEiCAgDEAEYASAAGNzY7foDGNfu8vkDGPf2n8YDGMOEwKQD";
+google_ad.activeview_cid = "CAASFeRozWgDyeU1WlPmxShj1UExhfJiSw";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ocy=1&ud=1&efp=1&la=0&";
+google_ad.line1 = "Dream of Spanish Wife?"; 
+google_ad.line2 = "Thousands of Beautiful Women"; 
+google_ad.line3 = "from Spain and Latin America!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = {}; 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CnbR8ucseWM6aBcWQvgSskr74C5Wgj94HlYnm8-wBwI23ARACII-wpBAoBGDh2G-gAdfu8vkDyAEBqAMBqgS2AU_QPfUTlkdP75DmRE5duwfd4xE0_KMdcVS2LppnMZvsLHjauIXmrgqv-_xLFB1fgy2z9QXUfD6pgfaMRmja4ydw3xP4ufrvZQR4CEkPv8idUGZg7F7iUsStFfoAJjRxc95KieQpGBPQ_SIBMyFa4YHSuTjOoSouMBMjP49HkQ6A6ByXYmHROFOgCjfB8rJnJeE6SPVKzOUzsxE7nhNOrCeeccZM4rDlFLXhrklUQIPO5DHhnPaWiAYBgAeRkY0GqAemvhvYBwHSCAUIgAEQAdgTCA&amp;num=2&amp;cid=CAASEuRozWgDyeU1WlPmxShj1UExhQ&amp;sig=AOD64_0CMLLtAdDGnrU0xRkwi3DYfEMkhA&amp;client=ca-livestrong_html&amp;adurl=https://www.the-astrology.com/landing.php%3Fr%3DRDM101420"; 
+google_ad.visible_url = "the-astrology.com"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "BsaUFucseWM6aBcWQvgSskr74CwC4gaahmgEAABABOAHIAQHSCAUIgAEQAcITSgofEICt1OsGGO6T3xEiCAgDEAEYASAAIggIAhABGAEgAAoPGMHa4VEiCAgDEAEYASAAGNzY7foDGNfu8vkDGPf2n8YDGMOEwKQD";
+google_ad.activeview_cid = "CAASFeRozWgDyeU1WlPmxShj1UExhfJiSw";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ocy=1&ud=1&efp=1&la=0&";
+google_ad.line1 = "Free Personal Horoscope"; 
+google_ad.line2 = "Love, Money, Career, Family, Luck."; 
+google_ad.line3 = "Discover Your Future for Free!"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_ad = {}; 
+google_ad.n = 3; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C_iDSucseWM6aBcWQvgSskr74C-D71vBGpIOu2bED-Pf6it4HEAMgj7CkECgEYOHYb6AB9_afxgPIAQGoAwGqBLkBT9AtgxOWRk_vkOZETl27B93jETT8ox1xVLYummcxm-wseNq4heauCq_7_EsUHV-DLbP1BdR8PqmB9oxGaNrjJ3DfE_i5-u9lBHgISQ-_yJ1QZmDsXuJSxK0V-gAmNHFz3kqJ5CkYE9D9IgEzIVrhgdK5OM6hKi4wEyM_j0eZDhT3lnAylm7buETk1CoUcYzTKjn99g555vdGErtrEE7ZLN4EzWwXtYXhsONbSlaghWuPjg-mPdc6GoKIBgGAB_GI4DmoB6a-G9gHAdIIBQiAARAB2BMB&amp;num=3&amp;cid=CAASEuRozWgDyeU1WlPmxShj1UExhQ&amp;sig=AOD64_3KhM2wwU-kkIMQ_uorHye6pwhjSA&amp;client=ca-livestrong_html&amp;adurl=http://www.flexmonster.com/demo-all-in-one/%3Fr%3Daw02"; 
+google_ad.visible_url = "www.flexmonster.com"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "BsaUFucseWM6aBcWQvgSskr74CwC4gaahmgEAABABOAHIAQHSCAUIgAEQAcITSgofEICt1OsGGO6T3xEiCAgDEAEYASAAIggIAhABGAEgAAoPGMHa4VEiCAgDEAEYASAAGNzY7foDGNfu8vkDGPf2n8YDGMOEwKQD";
+google_ad.activeview_cid = "CAASFeRozWgDyeU1WlPmxShj1UExhfJiSw";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ocy=1&ud=1&efp=1&la=0&";
+google_ad.line1 = "Web pivot table component"; 
+google_ad.line2 = "Setting Data Using API."; 
+google_ad.line3 = "Play with open demo!"; 
+google_ad.regionname = ""; 
+google_ads[2] = google_ad; 
+google_ad = {}; 
+google_ad.n = 4; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CYuPkucseWM6aBcWQvgSskr74C6fuyqJH6f-xuMYDwI23ARAEII-wpBAoBGDh2G-gAcOEwKQDyAEBqAMBqgS3AU_QTacQlkFP75DmRE5duwfd4xE0_KMdcVS2LppnMZvsLHjauIXmrgqv-_xLFB1fgy2z9QXUfD6pgfaMRmja4ydw3xP4ufrvZQR4CEkPv8idUGZg7F7iUsStFfoAJjRxc95KieQpGBPQ_SIBMyFa4YHSuTjOoSouMBMjP49HkQ6Hnn4Ti4o11LBL7NkiGXms0xc5CLUOfROwMxE7a-VNLK_WxDAvgrbj4UPgrElUoGVt3S44JxHqoYgGAYAHpfu_W6gHpr4b2AcB0ggFCIABEAE&amp;num=4&amp;cid=CAASEuRozWgDyeU1WlPmxShj1UExhQ&amp;sig=AOD64_0tj71OVPEeB2ruWvRs52R77YK8KQ&amp;client=ca-livestrong_html&amp;adurl=http://www.discoversdk.com/blog/migrating-from-python-2-to-python-3"; 
+google_ad.visible_url = "discoversdk.com"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "BsaUFucseWM6aBcWQvgSskr74CwC4gaahmgEAABABOAHIAQHSCAUIgAEQAcITSgofEICt1OsGGO6T3xEiCAgDEAEYASAAIggIAhABGAEgAAoPGMHa4VEiCAgDEAEYASAAGNzY7foDGNfu8vkDGPf2n8YDGMOEwKQD";
+google_ad.activeview_cid = "CAASFeRozWgDyeU1WlPmxShj1UExhfJiSw";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ocy=1&ud=1&efp=1&la=0&";
+google_ad.line1 = "Python 2 to Python 3"; 
+google_ad.line2 = "Find All The Libraries and SDKs you Will Ever Need in One Place"; 
+google_ad.line3 = ""; 
+google_ad.regionname = ""; 
+google_ads[3] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.livestrong.com/article/156879-health-effects-of-carbonated-water/%26gl%3DBN%26hl%3Den%26client%3Dca-livestrong_html%26ai0%3DCISrwucseWM6aBcWQvgSskr74C9vlvvlGuIGmoZoBwI23ARABII-wpBAoBGDh2G-gAdzY7foDyAEBqAMBqgS3AU_QDe4WlkRP75DmRE5duwfd4xE0_KMdcVS2LppnMZvsLHjauIXmrgqv-_xLFB1fgy2z9QXUfD6pgfaMRmja4ydw3xP4ufrvZQR4CEkPv8idUGZg7F7iUsStFfoAJjRxc95KieQpGBPQ_SIBMyFa4YHSuTjOoSouMBMjP49HkQ6hx3cSi4o11LBL7NkiGXms0xc5CLUOfROwMxE7a-VNLK_WxDAvgrbj4UPgrElUoGVtt3sneBHqoYgGAYAHjKeSBagHpr4b2AcB0ggFCIABEAE%26ai1%3DCnbR8ucseWM6aBcWQvgSskr74C5Wgj94HlYnm8-wBwI23ARACII-wpBAoBGDh2G-gAdfu8vkDyAEBqAMBqgS2AU_QPfUTlkdP75DmRE5duwfd4xE0_KMdcVS2LppnMZvsLHjauIXmrgqv-_xLFB1fgy2z9QXUfD6pgfaMRmja4ydw3xP4ufrvZQR4CEkPv8idUGZg7F7iUsStFfoAJjRxc95KieQpGBPQ_SIBMyFa4YHSuTjOoSouMBMjP49HkQ6A6ByXYmHROFOgCjfB8rJnJeE6SPVKzOUzsxE7nhNOrCeeccZM4rDlFLXhrklUQIPO5DHhnPaWiAYBgAeRkY0GqAemvhvYBwHSCAUIgAEQAdgTCA%26ai2%3DC_iDSucseWM6aBcWQvgSskr74C-D71vBGpIOu2bED-Pf6it4HEAMgj7CkECgEYOHYb6AB9_afxgPIAQGoAwGqBLkBT9AtgxOWRk_vkOZETl27B93jETT8ox1xVLYummcxm-wseNq4heauCq_7_EsUHV-DLbP1BdR8PqmB9oxGaNrjJ3DfE_i5-u9lBHgISQ-_yJ1QZmDsXuJSxK0V-gAmNHFz3kqJ5CkYE9D9IgEzIVrhgdK5OM6hKi4wEyM_j0eZDhT3lnAylm7buETk1CoUcYzTKjn99g555vdGErtrEE7ZLN4EzWwXtYXhsONbSlaghWuPjg-mPdc6GoKIBgGAB_GI4DmoB6a-G9gHAdIIBQiAARAB2BMB%26ai3%3DCYuPkucseWM6aBcWQvgSskr74C6fuyqJH6f-xuMYDwI23ARAEII-wpBAoBGDh2G-gAcOEwKQDyAEBqAMBqgS3AU_QTacQlkFP75DmRE5duwfd4xE0_KMdcVS2LppnMZvsLHjauIXmrgqv-_xLFB1fgy2z9QXUfD6pgfaMRmja4ydw3xP4ufrvZQR4CEkPv8idUGZg7F7iUsStFfoAJjRxc95KieQpGBPQ_SIBMyFa4YHSuTjOoSouMBMjP49HkQ6Hnn4Ti4o11LBL7NkiGXms0xc5CLUOfROwMxE7a-VNLK_WxDAvgrbj4UPgrElUoGVt3S44JxHqoYgGAYAHpfu_W6gHpr4b2AcB0ggFCIABEAE\x26usg\x3dAFQjCNFl6-3RFBUeM5T8FQmMZG2FaXNHOA";
+var google_attribution_text = "Ads by Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+if (window.google_before_ad_request_done) {
+google_before_ad_request_done();
+}
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

@@ -1,0 +1,4 @@
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1PnYMQGVD0r_Ebx9XuhlarqahxaTm_RoxyU1QrG3lW2Q/pubchart?oid=1921070190&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/18j0lUw7FlfchYSXMkBSoMo6g7__ciwfdADfYTTK3ac0/pubchart?oid=1019280139&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/18j0lUw7FlfchYSXMkBSoMo6g7__ciwfdADfYTTK3ac0/pubchart?oid=617202405&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/18j0lUw7FlfchYSXMkBSoMo6g7__ciwfdADfYTTK3ac0/pubchart?oid=469195503&amp;format=interactive"></iframe>

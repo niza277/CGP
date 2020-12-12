@@ -1,0 +1,22 @@
+
+
+
+var oo_profile={
+ tokenType : "1",
+ tracking : "319602,318332,319390,203184",
+ tags : "25315,25320,31026,135643",
+ tagcloud : [
+  { tag: "25315", weight: 100, token: "319602"}, 
+  { tag: "25320", weight: 100, token: "318332"}, 
+  { tag: "31026", weight: 100, token: "319390"}, 
+  { tag: "135643", weight: 100, token: "203184"}
+  ],
+ pixels : [
+  { url: "https://pixel.rubiconproject.com/tap.php?s=oz&v=319602||318332||319390||203184||"}
+  ]
+};
+
+
+try {
+oz_onPixelsLoaded(oo_profile);
+} catch(ignore) {}
